@@ -77,16 +77,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/sbatrow/" target="blank">
-  <img align="center" alt="sbatrow's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Hubdarkweb's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.instagram.com/sbatroww/" target="blank">
-  <img align="center" alt="Sithum batrow's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ <a href="https://www.instagram.com/TOpNeT/" target="blank">
+  <img align="center" alt="TOpNeT's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/SBatrow" target="blank">
-  <img align="center" alt="Sithum batrow's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ <a href="https://twitter.com/TOpNeT" target="blank">
+  <img align="center" alt="TOpNeT's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://medium.com/@sbatrow" target="blank">
-  <img align="center" alt="Sithum batrow's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ <a href="https://medium.com/@TOpNeT" target="blank">
+  <img align="center" alt="TOpNeT's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
   <br/>
   <br/>
